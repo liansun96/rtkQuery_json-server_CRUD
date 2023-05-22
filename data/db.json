@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "title": "The North Face",
+      "description": "Biology is the study of living things, a large variety of living things exists on the land in the water and in the air.",
+      "image": "https://i.pinimg.com/564x/c5/a4/b3/c5a4b32f23da3295ccffa39fdbf9f466.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Adidas",
+      "description": "Biology is the study of living things, a large variety of living things exists on the land in the water and in the air.",
+      "image": "https://i.pinimg.com/564x/da/35/a0/da35a0020152c47bc2b5ffb6517dc04d.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Nike",
+      "description": "Biology is the study of living things, a large variety of living things exists on the land in the water and in the air.",
+      "image": "https://i.pinimg.com/236x/ab/74/c5/ab74c575b11d3dc6a1efced0390718dc.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Stussy",
+      "description": "Biology is the study of living things, a large variety of living things exists on the land in the water and in the air.",
+      "image": "https://i.pinimg.com/564x/3e/d5/a9/3ed5a9e758a1b5e1ee266cfd3827cd3a.jpg"
+    }
+  ]
+}
